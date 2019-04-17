@@ -1,0 +1,66 @@
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.deps.json
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.json
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.dev.json
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfo.cs
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.deps.json
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.json
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.dev.json
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfo.cs
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\d.kostaris\Documents\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.deps.json
+C:\Users\d.kostaris\Documents\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.json
+C:\Users\d.kostaris\Documents\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.dev.json
+c:\Users\d.kostaris\Documents\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.dll
+c:\Users\d.kostaris\Documents\Projects\SearchString\bin\Debug\netcoreapp2.2\SearchString.pdb
+c:\Users\d.kostaris\Documents\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.csprojAssemblyReference.cache
+c:\Users\d.kostaris\Documents\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.csproj.CoreCompileInputs.cache
+c:\Users\d.kostaris\Documents\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfoInputs.cache
+c:\Users\d.kostaris\Documents\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfo.cs
+c:\Users\d.kostaris\Documents\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.dll
+c:\Users\d.kostaris\Documents\Projects\SearchString\obj\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.deps.json
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.json
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.dev.json
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfo.cs
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Visual Studio 2017\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.deps.json
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.json
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.dev.json
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\bin\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfo.cs
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Projects\SearchString\SearchString\obj\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\bin\Debug\netcoreapp2.2\SearchString.deps.json
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\bin\Debug\netcoreapp2.2\SearchString.runtimeconfig.dev.json
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\bin\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\bin\Debug\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\obj\Debug\netcoreapp2.2\SearchString.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\obj\Debug\netcoreapp2.2\SearchString.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\obj\Debug\netcoreapp2.2\SearchString.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\obj\Debug\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\GitHub\CSVFileChecker\SearchString\obj\Debug\netcoreapp2.2\SearchString.pdb

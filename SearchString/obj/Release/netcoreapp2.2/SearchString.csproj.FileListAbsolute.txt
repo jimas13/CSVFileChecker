@@ -1,0 +1,10 @@
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Release\netcoreapp2.2\SearchString.deps.json
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Release\netcoreapp2.2\SearchString.runtimeconfig.json
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Release\netcoreapp2.2\SearchString.runtimeconfig.dev.json
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Release\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\bin\Release\netcoreapp2.2\SearchString.pdb
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Release\netcoreapp2.2\SearchString.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Release\netcoreapp2.2\SearchString.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Release\netcoreapp2.2\SearchString.AssemblyInfo.cs
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Release\netcoreapp2.2\SearchString.dll
+C:\Users\Hp\Documents\Visual Studio 2017\SearchString\SearchString\obj\Release\netcoreapp2.2\SearchString.pdb
